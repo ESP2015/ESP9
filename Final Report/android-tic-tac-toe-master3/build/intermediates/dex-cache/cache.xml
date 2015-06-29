@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\NANDAN\Desktop\android-tic-tac-toe-master3\android\libs\ketai.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c3546969147f27e97552bbc0585410f3a8036525">
+        <dex dex="C:\Users\NANDAN\Desktop\android-tic-tac-toe-master3\android\build\intermediates\pre-dexed\debug\ketai-b5ef65805b80e6c64a636a6345d889b09d40a808.jar" />
+    </item>
+    <item
+        jar="C:\Users\NANDAN\Desktop\android-tic-tac-toe-master3\android\libs\processing-core.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01b3b809db8f2b25d717c5c1b9d166547dea3fa9">
+        <dex dex="C:\Users\NANDAN\Desktop\android-tic-tac-toe-master3\android\build\intermediates\pre-dexed\debug\processing-core-5ad262e96a234822f981a4428b38455f7d7ac277.jar" />
+    </item>
+
+</items>

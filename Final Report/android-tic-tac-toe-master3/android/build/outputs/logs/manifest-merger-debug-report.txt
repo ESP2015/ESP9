@@ -1,0 +1,46 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:1:1
+	xmlns:android
+		ADDED from AndroidManifest.xml:1:11
+	package
+		ADDED from AndroidManifest.xml:1:120
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:1:94
+	android:versionCode
+		ADDED from AndroidManifest.xml:1:70
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-sdk
+ADDED from AndroidManifest.xml:1:162
+	android:targetSdkVersion
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:1:172
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+application
+ADDED from AndroidManifest.xml:1:200
+	android:label
+		ADDED from AndroidManifest.xml:1:269
+	android:debuggable
+		ADDED from AndroidManifest.xml:1:213
+	android:icon
+		ADDED from AndroidManifest.xml:1:239
+activity#processing.test.processing_code.processing_code
+ADDED from AndroidManifest.xml:1:301
+	android:name
+		ADDED from AndroidManifest.xml:1:311
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:1:343
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:1:358
+	android:name
+		ADDED from AndroidManifest.xml:1:366
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:1:409
+	android:name
+		ADDED from AndroidManifest.xml:1:419
